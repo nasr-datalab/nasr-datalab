@@ -1,3 +1,10 @@
+## 👋 About Me
+
+I'm a Software Engineering student at **Mehran University (MUET)** who turns raw data into clear dashboards and decisions. I did a **Data Analyst internship at SEPCO (IT/MIS Wing)**, where I worked with real operational data, and I now build with **Power BI, DAX, Python, and SQL**.
+
+
+- 📫 Reach me: **nasrullahmaharpk12@gmail.com**
+
 
 # 💻 Tech Stack:
 
