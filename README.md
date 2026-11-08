@@ -6,8 +6,6 @@ I'm a Software Engineering student passionate about transforming raw data into m
 - 🎓 Software Engineering Student at Mehran University of Engineering & Technology
 - 📊 Interested in Data Analytics, Business Intelligence & Data Science
 - 💼 Completed a Data Analyst Internship at Sukkur Electric Power Company (SEPCO)
-- Currently improving my skills in Python, SQL and Data Science
-- Interested in exploring data-driven solutions and business intelligence
 
 Technical Skills
 
