@@ -10,7 +10,7 @@ I'm a Software Engineering student passionate about transforming raw data into m
 - Currently improving my skills in Python, SQL and Data Science
 - Interested in exploring data-driven solutions and business intelligence
 
-🛠️ Technical Skills
+Technical Skills
 
 Data Analytics & Visualization
 
@@ -32,29 +32,36 @@ Other Tools
 - Git & GitHub
 - Jupyter Notebook
 
-💼 Experience
+Experience
 
 Data Analyst Intern — SEPCO (IT/MIS Wing)
-
 Project: Excel-Based Consumer Billing and Recovery Dashboard
-
 - Worked with consumer billing and recovery data.
 - Performed data cleaning and formatting.
 - Developed an Excel-based dashboard for reporting and analysis.
 - Explored data visualization and business reporting techniques.
 
-📂 Featured Projects
+Featured Projects
 
-Coming soon! I'm continuously working on practical data analytics and visualization projects.
+1. Mobile Sales Dashboard
+- Tool: Power BI
+- Interactive sales performance analysis.
+- KPIs, revenue trends and customer insights.
+
+2. Chai & Grill Sales Dashboard
+- Tool: Power BI
+- Sales and business performance analysis.
+
+3. Consumer Billing & Recovery Dashboard
+- Tools: Microsoft Excel
+- SEPCO internship project focused on billing and recovery analysis.
 
 🤝 Connect With Me
 
 - LinkedIn: "Nasrullah Mahar" (https://www.linkedin.com/in/nasrullah-mahar/)
 - GitHub: "nasr-datalab" (https://github.com/nasr-datalab)
 
----
-
-⭐ Turning Data into Insights, One Project at a Time.
+Turning Data into Insights, One Project at a Time.
 
 <!--
 **nasr-datalab/nasr-datalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
