@@ -1,4 +1,5 @@
 Hi, I'm Nasrullah Mahar 👋
+
 Data Analyst | Power BI Developer
 
 I'm a Software Engineering student passionate about transforming raw data into meaningful insights and solving real-world problems through data analytics and visualization.
