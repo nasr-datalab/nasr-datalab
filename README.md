@@ -1,75 +1,12 @@
-Hi, I'm Nasrullah Mahar 👋
 
-Data Analyst | Power BI Developer
+# 💻 Tech Stack:
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=nasr-datalab&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=nasr-datalab&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nasr-datalab&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I'm a Software Engineering student passionate about transforming raw data into meaningful insights and solving real-world problems through data analytics and visualization.
+---
+[![](https://komarev.com/ghpvc/?username=nasr-datalab&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🎓 Software Engineering Student at Mehran University of Engineering & Technology
-- 📊 Interested in Data Analytics, Business Intelligence & Data Science
-- 💼 Completed a Data Analyst Internship at Sukkur Electric Power Company (SEPCO)
-
-Technical Skills
-
-Data Analytics & Visualization
-- Microsoft Power BI
-- Microsoft Excel
-- DAX
-- Power Query
-
-Programming & Databases
-- Python
-- Pandas
-- NumPy
-- SQL
-- MySQL
-
-Other Tools
-- Git & GitHub
-- Jupyter Notebook
-
-Experience
-
-Data Analyst Intern — SEPCO (IT/MIS Wing)
-Project: Excel-Based Consumer Billing and Recovery Dashboard
-
-- Worked with consumer billing and recovery data.
-- Performed data cleaning and formatting.
-- Developed an Excel-based dashboard for reporting and analysis.
-- Explored data visualization and business reporting techniques.
-
-Featured Projects
-
-1. Mobile Sales Dashboard
-- Tool: Power BI
-- Interactive sales performance analysis.
-- KPIs, revenue trends and customer insights.
-
-2. Chai & Grill Sales Dashboard
-- Tool: Power BI
-- Sales and business performance analysis.
-
-3. Consumer Billing & Recovery Dashboard
-- Tools: Microsoft Excel
-- SEPCO internship project focused on billing and recovery analysis.
-
-🤝 Connect With Me
-
-- LinkedIn: "Nasrullah Mahar" (https://www.linkedin.com/in/nasrullah-mahar/)
-- GitHub: "nasr-datalab" (https://github.com/nasr-datalab)
-
-Turning Data into Insights, One Project at a Time.
-
-<!--
-**nasr-datalab/nasr-datalab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
