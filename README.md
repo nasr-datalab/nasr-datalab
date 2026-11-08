@@ -1,6 +1,5 @@
 Hi, I'm Nasrullah Mahar 👋
-
-Aspiring Data Analyst | Data Science Enthusiast
+Data Analyst | Power BI Developer
 
 I'm a Software Engineering student passionate about transforming raw data into meaningful insights and solving real-world problems through data analytics and visualization.
 
@@ -13,14 +12,12 @@ I'm a Software Engineering student passionate about transforming raw data into m
 Technical Skills
 
 Data Analytics & Visualization
-
 - Microsoft Power BI
 - Microsoft Excel
 - DAX
 - Power Query
 
 Programming & Databases
-
 - Python
 - Pandas
 - NumPy
@@ -28,7 +25,6 @@ Programming & Databases
 - MySQL
 
 Other Tools
-
 - Git & GitHub
 - Jupyter Notebook
 
@@ -36,6 +32,7 @@ Experience
 
 Data Analyst Intern — SEPCO (IT/MIS Wing)
 Project: Excel-Based Consumer Billing and Recovery Dashboard
+
 - Worked with consumer billing and recovery data.
 - Performed data cleaning and formatting.
 - Developed an Excel-based dashboard for reporting and analysis.
